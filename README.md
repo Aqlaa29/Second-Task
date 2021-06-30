@@ -1,4 +1,4 @@
-# Second-Task An interface for Base Robot
+# Second-Task An interface for Base Robot contian 5 directions 
 في المهمة الثانية قمنا بانشاء لوحة تحكم لقاعدة الروبوت عن طريق  استخدم 
 html,css
 تحتوي القاعدة على لوحة تحكم تتضمن اربع اتجاهات بالاضافة الى زر الايقاف 
